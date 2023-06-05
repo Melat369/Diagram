@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T11:14:29.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="f9dxHXC7v6b1HY5EgCKz" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T11:47:53.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="-WWLUuPSQF3hj5JbyaTy" version="21.3.7" type="github">
   <diagram name="Page-1" id="-DTEJE7ugPRv10RIl4WA">
-    <mxGraphModel dx="880" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,25 +23,70 @@
           <mxGeometry x="430" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GT8Ml3c-AlT9oamL0Kv3-7" value="Network Infrastructure" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="370" y="290" width="410" height="230" as="geometry" />
+          <mxGeometry x="425" y="290" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="GT8Ml3c-AlT9oamL0Kv3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GT8Ml3c-AlT9oamL0Kv3-8" target="GT8Ml3c-AlT9oamL0Kv3-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GT8Ml3c-AlT9oamL0Kv3-8" value="&lt;font color=&quot;#190033&quot;&gt;Local Access Network&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="410" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="440" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GT8Ml3c-AlT9oamL0Kv3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GT8Ml3c-AlT9oamL0Kv3-9" target="GT8Ml3c-AlT9oamL0Kv3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GT8Ml3c-AlT9oamL0Kv3-9" value="&lt;font color=&quot;#190033&quot;&gt;Wide Area Access Network&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="610" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="700" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GT8Ml3c-AlT9oamL0Kv3-11" value="&lt;font color=&quot;#190033&quot;&gt;Private Cloud&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="610" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="670" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="380" y="540" width="120" height="80" as="geometry" />
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-13" value="Server" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GT8Ml3c-AlT9oamL0Kv3-14" target="GT8Ml3c-AlT9oamL0Kv3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-14" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;font color=&quot;#190033&quot;&gt;&lt;b&gt;Components&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;font color=&quot;#190033&quot;&gt;&lt;b&gt;Application server&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="410" y="585" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-15" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="GT8Ml3c-AlT9oamL0Kv3-14">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-16" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;font color=&quot;#190033&quot;&gt;&lt;b&gt;Components&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;font color=&quot;#190033&quot;&gt;&lt;b&gt;Database server&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="530" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="GT8Ml3c-AlT9oamL0Kv3-16">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-19" value="Environment" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-22" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#190033&quot;&gt;Component&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;font color=&quot;#190033&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;font color=&quot;#190033&quot;&gt;Desktop Application&lt;/font&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="70" y="550" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-23" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="GT8Ml3c-AlT9oamL0Kv3-22">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-25" value="Deployment" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="90" y="795" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GT8Ml3c-AlT9oamL0Kv3-28" target="GT8Ml3c-AlT9oamL0Kv3-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-28" value="&lt;font color=&quot;#190033&quot;&gt;Application server&lt;/font&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="130" y="830" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-29" value="&lt;font color=&quot;#190033&quot;&gt;Database Server&lt;/font&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="290" y="925" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Resident Kebele Id Management System&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry width="850" height="1090" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
