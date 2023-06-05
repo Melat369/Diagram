@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T10:10:58.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" version="21.3.7" etag="CYSZ5MrhDtjjEnX3W0ie" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T11:14:29.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="f9dxHXC7v6b1HY5EgCKz" version="21.3.7" type="github">
   <diagram name="Page-1" id="-DTEJE7ugPRv10RIl4WA">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-1" value="&lt;font color=&quot;#ffffff&quot;&gt;System Function&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="500" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GT8Ml3c-AlT9oamL0Kv3-2" target="GT8Ml3c-AlT9oamL0Kv3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-2" value="&lt;font color=&quot;#190033&quot;&gt;Database&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GT8Ml3c-AlT9oamL0Kv3-3" target="GT8Ml3c-AlT9oamL0Kv3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-3" value="&lt;font color=&quot;#190033&quot;&gt;Web Application&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="540" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-5" value="&lt;font color=&quot;#190033&quot;&gt;Desktop Application&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-7" value="Network Infrastructure" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="410" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GT8Ml3c-AlT9oamL0Kv3-8" target="GT8Ml3c-AlT9oamL0Kv3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-8" value="&lt;font color=&quot;#190033&quot;&gt;Local Access Network&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="410" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GT8Ml3c-AlT9oamL0Kv3-9" target="GT8Ml3c-AlT9oamL0Kv3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-9" value="&lt;font color=&quot;#190033&quot;&gt;Wide Area Access Network&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="610" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-11" value="&lt;font color=&quot;#190033&quot;&gt;Private Cloud&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="610" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GT8Ml3c-AlT9oamL0Kv3-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
